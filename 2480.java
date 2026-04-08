@@ -21,4 +21,3 @@ import java.util.Scanner;
     		System.out.println(price);
     	}//main
     }//class
-
